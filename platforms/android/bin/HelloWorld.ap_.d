@@ -21,12 +21,17 @@
 /Applications/MAMP/htdocs/mobile/phonegap-start/platforms/android/assets/www/index.html \
 /Applications/MAMP/htdocs/mobile/phonegap-start/platforms/android/assets/www/js \
 /Applications/MAMP/htdocs/mobile/phonegap-start/platforms/android/assets/www/phonegap.js \
+/Applications/MAMP/htdocs/mobile/phonegap-start/platforms/android/assets/www/plugins \
 /Applications/MAMP/htdocs/mobile/phonegap-start/platforms/android/assets/www/res \
 /Applications/MAMP/htdocs/mobile/phonegap-start/platforms/android/assets/www/spec \
 /Applications/MAMP/htdocs/mobile/phonegap-start/platforms/android/assets/www/spec.html \
 /Applications/MAMP/htdocs/mobile/phonegap-start/platforms/android/assets/www/css/index.css \
 /Applications/MAMP/htdocs/mobile/phonegap-start/platforms/android/assets/www/img/logo.png \
 /Applications/MAMP/htdocs/mobile/phonegap-start/platforms/android/assets/www/js/index.js \
+/Applications/MAMP/htdocs/mobile/phonegap-start/platforms/android/assets/www/js/pushwoosh.js \
+/Applications/MAMP/htdocs/mobile/phonegap-start/platforms/android/assets/www/plugins/com.phonegap.plugins.PushPlugin \
+/Applications/MAMP/htdocs/mobile/phonegap-start/platforms/android/assets/www/plugins/com.phonegap.plugins.PushPlugin/www \
+/Applications/MAMP/htdocs/mobile/phonegap-start/platforms/android/assets/www/plugins/com.phonegap.plugins.PushPlugin/www/PushNotification.js \
 /Applications/MAMP/htdocs/mobile/phonegap-start/platforms/android/assets/www/res/icon \
 /Applications/MAMP/htdocs/mobile/phonegap-start/platforms/android/assets/www/res/screen \
 /Applications/MAMP/htdocs/mobile/phonegap-start/platforms/android/assets/www/res/icon/android \
