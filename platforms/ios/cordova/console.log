@@ -37,3 +37,4 @@
 2014-02-13 15:05:27.757 HelloWorld[14817:80b] active
 2014-02-13 15:05:27.835 HelloWorld[14817:80b] Resetting plugins due to page load.
 2014-02-13 15:05:27.909 HelloWorld[14817:80b] Finished load of: file:///Users/benaichal/Library/Application%20Support/iPhone%20Simulator/7.0.3/Applications/CBF1FC71-84C8-445D-8B8D-14CCB02D4772/HelloWorld.app/www/index.html
+2014-02-13 15:50:32.636 HelloWorld[14817:80b] Received memory warning.
